@@ -1,0 +1,28 @@
+{
+  "name": "koishi-plugin-driving-test",
+  "description": "驾驶理论考试答题插件",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "contributors": [
+    "unsignedzhang <unsignedzhang@foxmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/unsignedzhang/koishi-plugin-driving-test",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsignedzhang/koishi-plugin-driving-test.git"
+  },
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.15.7"
+  }
+}
